@@ -4,7 +4,7 @@
 
 Pronouns: *he/him*
 
-Hey! I am Simon Van Der Weide. I am an aspiring software engineer with diverse interests in software engineering, full-stack web dev, and systems programming and design. I am a graduating senior at Yale University with a double-major in Computer Science (*B.S.*) and English.
+Hey! I am Simon Van Der Weide. I am an aspiring programmer with diverse interests in software engineering, full-stack web dev, and systems programming and design. I am a graduating senior at Yale University with a double-major in Computer Science (*B.S.*) and English.
 
 <!--
 **svanderweide/svanderweide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
